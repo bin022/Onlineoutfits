@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574160034761",
+    "project_id": "online-outfits-2022",
+    "storage_bucket": "online-outfits-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574160034761:android:87574a683bd4761314a618",
+        "android_client_info": {
+          "package_name": "com.example.bin135.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574160034761-dojs5kphck271bcc0gt5c9mt48vm938t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bin135.augscan",
+            "certificate_hash": "2ed132651c7b255e690d728f4503697b7b687be7"
+          }
+        },
+        {
+          "client_id": "574160034761-gf8h4uo7ukmk6rpdsj5e6eeg4nfoklgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Sojuy8mbTC-qTCuTHjHIDDzHKyBlH3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574160034761-gf8h4uo7ukmk6rpdsj5e6eeg4nfoklgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
